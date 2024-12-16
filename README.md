@@ -1,10 +1,11 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#to setup python environment
+python -m venv myenv
+myenv\Scripts\activate   # On Windows
+source myenv/bin/activate  # On macOS/Linux
 
-## Available Scripts
+pip install -r requirements.txt
 
-In the project directory, you can run:
 
 ### `npm start`
 
